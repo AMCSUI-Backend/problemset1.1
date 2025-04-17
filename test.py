@@ -1,1 +1,1 @@
-import hello.py
+import hello
